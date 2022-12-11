@@ -425,7 +425,7 @@
   color: #df786f;
 }
 
-.validpass {
+/* .validpass {
   position: absolute;
   width: 228px;
   height: 49px;
@@ -437,12 +437,12 @@
   font-weight: 400;
   font-size: 12px;
   line-height: 15px;
-  /* identical to box height */
+
 
 
   color: #7E7E7E;
 
-}
+} */
 
 .attenInfo h1 {
 
